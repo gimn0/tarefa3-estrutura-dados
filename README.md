@@ -1,10 +1,9 @@
 # Tarefa 03 de Estrutura de Dados
-Enunciados:
-Lista 06:
+# Enunciados:
+# Lista 06:
 12. Implemente um programa que receba uma frase e converta as vogais de suas
 palavras para maiúsculo e as consoantes para minúsculo.
-==================================================================================
-Lista 07:
+# Lista 07:
 7. Implemente um programa que solicite o nome, o e-mail e o telefone de uma pessoa
 e grave essas informações num vetor de uma estrutura denominada contato que
 contém esses dados (nome, e-mail e telefone). O programa deve ter três opções
