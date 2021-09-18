@@ -1,5 +1,5 @@
 # Tarefa 03 de Estrutura de Dados
-# Enunciados:
+Enunciados:
 # Lista 06:
 12. Implemente um programa que receba uma frase e converta as vogais de suas
 palavras para maiúsculo e as consoantes para minúsculo.
